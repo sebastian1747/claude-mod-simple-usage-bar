@@ -1,0 +1,8 @@
+{
+  "name": "usage-bar",
+  "version": "0.1.0",
+  "description": "Leiste über dem Prompt mit 5-Stunden-, Wochen- und Fable-Usage als Balken",
+  "author": { "name": "sebastian1747" },
+  "repository": "https://github.com/sebastian1747/claude-mod-simple-usage-bar",
+  "types": "./types/index.d.ts"
+}

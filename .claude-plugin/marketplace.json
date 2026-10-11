@@ -1,0 +1,6 @@
+{
+  "name": "claude-mod-simple-usage-bar",
+  "description": "Schlichte Usage-Leiste für Claude Code: 5h-, Wochen- und Fable-Limit als Balken über dem Prompt",
+  "owner": { "name": "sebastian1747" },
+  "plugins": [{ "name": "usage-bar", "source": "./" }]
+}
